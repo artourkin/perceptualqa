@@ -26,8 +26,8 @@ plot(x,col=ifelse(y>0,1,2),pch=ifelse(istrain==1,1,2))
 legend("topleft",c('Positive Train','Positive Test','Negative Train','Negative Test'),
        col=c(1,1,2,2),pch=c(1,2,1,2),text.col=c(1,1,2,2))
 library(kernlab)
-#svp <- ksvm(xtrain,ytrain,type="C-svc",kernel='vanilladot',C=100,scaled=c())
-svp <- ksvm(x,y,type="C-svc",kernel='rbf',kpar=list(sigma=1),C=1)
+svp <- ksvm(xtrain,ytrain,type="C-svc",kernel='vanilladot',C=100,scaled=c())
+#svp <- ksvm(x,y,type="C-svc",kernel='rbf',kpar=list(sigma=1),C=1)
 
 
 plot(svp,data=xtrain)
