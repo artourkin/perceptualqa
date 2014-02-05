@@ -2,11 +2,20 @@ rawdata <-read.csv("/home/artur/rnd/git/perceptualqa/DxOnew.csv")
 xy<- data.frame( cbind(rawdata$phash,rawdata$human))
 names(xy) <-c ("phash", "human")
 attach(xy)
-#boxplot(xy$phash~xy$human,data=xy, xlab="human annotation", ylab="phash difference")
-
-xy[xy[,1] <= 2,1] <- 1
-xy[xy[,1] > 2,1] <- 0
+xy$human <- (xy$human + 1) %% 2
+ph.aov <- aov(human~phash)
+plot(human,phash)
+line <- lm(phash~human)
+abline(line)
+#xy[xy[,1] <= 2,1] <- 1
+#xy[xy[,1] > 2,1] <- 0
 #xy$human <- (xy$human + 1) %% 2
+
+
+#plot(xy$phash~xy$human,data=xy, xlab="human annotation", ylab="phash distance")
+#abline(lm(xy$phash~xy$human))
+#plot(phash,human)
+
 
 #Test <- factor(phash, levels=c("0","1"), labels=c("T-","T+"), ordered=T)
 #Human <-factor(human, levels=c("0","1"), labels=c("H-","H+"), ordered=T)
@@ -14,8 +23,6 @@ xy[xy[,1] > 2,1] <- 0
 #test<-calculate.xtab(Test, Human, varnames=c("Test","Human","T+","T-","H+","H-"))
 #print(test, html=T)
 
-
-boxplot(xy$phash~xy$human,data=xy, xlab="human annotation", ylab="phash difference")
 
 results <- t.test(phash,human, paired=T)
 #auc <- slot(performance(pred, "auc"), "y.values")[[1]]
