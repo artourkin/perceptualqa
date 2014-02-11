@@ -19,7 +19,7 @@ library(binom)
 b1 <- binom.confint(sum(x1), n, conf.level = 0.95, methods = "exact")
 b2 <- binom.confint(sum(x2), n, conf.level = 0.95, methods = "exact")
 
-margin.table(table(x1, x2))
+print(margin.table(table(x1, x2)))
 
 chisq.test(x1, x2)
 
