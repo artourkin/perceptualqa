@@ -29,7 +29,10 @@ sim.human <- function(alpha, beta) {
 
 
 #Loading data.
-rawdata <-read.csv("/home/artur/rnd/git/perceptualqa/DxOnew.csv")
+rawdata1 <-read.csv("/home/artur/rnd/git/perceptualqa/phash_DxO.csv")
+rawdata2 <-read.csv("/home/artur/rnd/git/perceptualqa/phash_CO.csv")
+rawdata3 <-read.csv("/home/artur/rnd/git/perceptualqa/phash_ADC.csv")
+rawdata<-rbind(rawdata1,rawdata3)
 dat <- structure(list(Human = rawdata$human, pHash = rawdata$phash), .Names = c("Human", "pHash"), 
                  class = "data.frame", row.names = c(NA, -27L))
 #Calculating a model using logistic regression.
