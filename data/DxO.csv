@@ -1,0 +1,231 @@
+original	converted	r1_clipping	r1_brightness	r1_hue	r2_clipping	r2_brightness	r2_hue	rae_unint	rmse_unint	rmae_unint	rpae_unint	ssim_h_int	ssim_s_int	ssim_v_int	rae_int	rmse_int
+originals/5DIII_LISI_charlie_maedels_1081_.CR2	converted_DxO/5DIII_LISI_charlie_maedels_1081_DxO.dng	2	2	2	1	2	3					0.5902323	0.46061957	0.47834885		
+originals/5DIII_LISI_charlie_nachbarin_007_.CR2	converted_DxO/5DIII_LISI_charlie_nachbarin_007_DxO.dng	2	2	3	1	2	3					0.4138794	0.35014555	0.55764353		
+originals/5DIII_LISI_charlito85er_005_.CR2	converted_DxO/5DIII_LISI_charlito85er_005_DxO.dng	3	2	3	3	2	3					0.9689709	0.8008571	0.8968724		
+originals/5DIII_LISI_charlito85er_026_.CR2	converted_DxO/5DIII_LISI_charlito85er_026_DxO.dng	3	3	2	3	2	3					0.81237394	0.6636579	0.9088203		
+originals/Canon5DII_FLO_.CR2	converted_DxO/Canon5DII_FLO_DxO.dng	2	2	3	2	2	2					0.7917773	0.6022283	0.7820959		
+originals/Canon40D_FLO_.CR2	converted_DxO/Canon40D_FLO_DxO.dng	2	2	3	2	2	3					0.8406303	0.55221266	0.66880924		
+originals/Canon60D_FLO_.CR2	converted_DxO/Canon60D_FLO_DxO.dng	3	2	2	2	2	3					0.8057943	0.73828363	0.9088556		
+originals/D3_LISI_DSC4421_.NEF	converted_DxO/D3_LISI_DSC4421_DxO.dng	3	3	2	2	3	3					0.9636476	0.8460202	0.9743097		
+originals/D3_LISI_IMG4467_.NEF	converted_DxO/D3_LISI_IMG4467_DxO.dng	3	2	3	3	2	3					0.86007226	0.6958571	0.91268563		
+originals/D3_LISI_IMG4502_.NEF	converted_DxO/D3_LISI_IMG4502_DxO.dng	3	2	2	3	2	3					0.7302109	0.6425917	0.9617058		
+originals/D3_LISI_pflanze_011_.NEF	converted_DxO/D3_LISI_pflanze_011_DxO.dng	2	2	3	2	3	3					0.56652254	0.24491657	0.6245887		
+originals/D4_LISI_hundezone_009_.NEF	converted_DxO/D4_LISI_hundezone_009_DxO.dng	3	3	3	3	3	3					0.895436	0.7345805	0.7998297		
+originals/D4_LISI_hundezone_029_.NEF	converted_DxO/D4_LISI_hundezone_029_DxO.dng	2	2	3	2	3	3					0.78713626	0.5627621	0.74652886		
+originals/D4_LISI_hundezone_043_.NEF	converted_DxO/D4_LISI_hundezone_043_DxO.dng	2	3	2	2	3	3					0.7681441	0.6804383	0.7409376		
+originals/D4_LISI_hundezone_045_.NEF	converted_DxO/D4_LISI_hundezone_045_DxO.dng	2	2	3	2	3	3					0.7006858	0.6212588	0.6590855		
+originals/D70s_PN_20080619-DSC_0252_1839_.NEF	converted_DxO/D70s_PN_20080619-DSC_0252_1839_DxO.dng	2	2	3	2	3	3					0.71228284	0.46705252	0.74059755		
+originals/D70s_PN_DSC_0045_.NEF	converted_DxO/D70s_PN_DSC_0045_DxO.dng	2	3	3	2	2	3					0.6343524	0.6064823	0.9574555		
+originals/D70s_PN_DSC_0226_.NEF	converted_DxO/D70s_PN_DSC_0226_DxO.dng	2	3	3	2	2	3					0.6592168	0.6729399	0.9700818		
+originals/D70s_PN_DSC_0264_.NEF	converted_DxO/D70s_PN_DSC_0264_DxO.dng	2	2	3	3	2	3					0.48367414	0.15392454	0.43504816		
+originals/D70s_PN_DSC_0309_.NEF	converted_DxO/D70s_PN_DSC_0309_DxO.dng	2	2	3	3	2	3					0.76842237	0.80024433	0.9784002		
+originals/D80_PN_20070331-0216-1_.NEF	converted_DxO/D80_PN_20070331-0216-1_DxO.dng	2	3	2	2	3	3					0.71960175	0.42934293	0.5978839		
+originals/D80_PN_20070331-0336-2_.NEF	converted_DxO/D80_PN_20070331-0336-2_DxO.dng	3	2	3	3	2	3					0.7004478	0.41379842	0.63597715		
+originals/D80_PN_20070331-1952-4_.NEF	converted_DxO/D80_PN_20070331-1952-4_DxO.dng	2	2	3	2	3	3					0.78578335	0.8389846	0.95939		
+originals/D80_PN_DSC_0151_.NEF	converted_DxO/D80_PN_DSC_0151_DxO.dng	3	2	3	3	2	3					0.8917399	0.8183525	0.949437		
+originals/D300_PN_DSC_2337_.NEF	converted_DxO/D300_PN_DSC_2337_DxO.dng	3	2	2	3	2	3					0.89156926	0.82240504	0.9403987		
+originals/D300_PN_DSC_2373_.NEF	converted_DxO/D300_PN_DSC_2373_DxO.dng	3	2	2	3	2	2					0.89703715	0.8094629	0.96067333		
+originals/D300_PN_DSC_2848_.NEF	converted_DxO/D300_PN_DSC_2848_DxO.dng	3	2	3	3	3	3					0.85471725	0.78244066	0.9422288		
+originals/D300_PN_DSC_4045_.NEF	converted_DxO/D300_PN_DSC_4045_DxO.dng	3	2	3	3	2	3					0.77020615	0.5298212	0.87592435		
+originals/D300_PN_DSC_4311_.NEF	converted_DxO/D300_PN_DSC_4311_DxO.dng	2	2	3	2	3	3					0.7579512	0.49085328	0.85755956		
+originals/D300_PN_DSC_4547_.NEF	converted_DxO/D300_PN_DSC_4547_DxO.dng	2	2	3	2	2	3					0.62681633	0.3780734	0.6449325		
+originals/D300_PN_DSC_5147_.NEF	converted_DxO/D300_PN_DSC_5147_DxO.dng	2	2	3	2	2	3					0.58192205	0.53441006	0.7623512		
+originals/D300_PN_DSC_5358_.NEF	converted_DxO/D300_PN_DSC_5358_DxO.dng	2	2	3	2	2	3					0.75108224	0.50723404	0.71263105		
+originals/D300_PN_DSC_5449_.NEF	converted_DxO/D300_PN_DSC_5449_DxO.dng	2	2	3	1	2	3					0.8479492	0.5911796	0.7689252		
+originals/D300_PN_DSC_5574_.NEF	converted_DxO/D300_PN_DSC_5574_DxO.dng	2	2	3	1	2	3					0.92955726	0.551307	0.60041994		
+originals/D300_PN_DSC_6926_.NEF	converted_DxO/D300_PN_DSC_6926_DxO.dng	2	2	3	2	3	3					0.79858774	0.47746307	0.85138214		
+originals/D300_PN_DSC_7484_.NEF	converted_DxO/D300_PN_DSC_7484_DxO.dng	2	2	3	2	3	3					0.74307555	0.5393906	0.91486746		
+originals/D300_PN_DSC_7589_.NEF	converted_DxO/D300_PN_DSC_7589_DxO.dng	2	2	2	1	2	3					0.8090082	0.5071316	0.87089056		
+originals/D300_PN_DSC_8921_.NEF	converted_DxO/D300_PN_DSC_8921_DxO.dng	2	2	2	3	2	3					0.8913275	0.46816668	0.8013094		
+originals/D300_PN_DSC_8937_.NEF	converted_DxO/D300_PN_DSC_8937_DxO.dng	2	2	3	2	3	3					0.68945163	0.37802902	0.82167125		
+originals/D300_PN_DSC_9062_.NEF	converted_DxO/D300_PN_DSC_9062_DxO.dng	2	2	2	2	3	3					0.7429716	0.3548294	0.73725075		
+originals/D300_PN_DSC_9164_.NEF	converted_DxO/D300_PN_DSC_9164_DxO.dng	3	2	3	3	2	3					0.69252634	0.4406426	0.8280801		
+originals/D700_CMK_1449_.NEF	converted_DxO/D700_CMK_1449_DxO.dng	2	2	3	2	2	3					0.8905588	0.43496943	0.3002161		
+originals/D700_CMK_1455_.NEF	converted_DxO/D700_CMK_1455_DxO.dng	2	3	3	2	3	3					0.74331087	0.36471263	0.38107184		
+originals/D700_CMK_1476_.NEF	converted_DxO/D700_CMK_1476_DxO.dng	2	3	2	2	2	3					0.6671907	0.5741873	0.66501164		
+originals/D700_KPIC_1_.NEF	converted_DxO/D700_KPIC_1_DxO.dng	2	2	3	2	3	3					0.920472	0.55289763	0.86898816		
+originals/D700_KPIC_2_.NEF	converted_DxO/D700_KPIC_2_DxO.dng	2	3	2	2	2	3					0.97778326	0.3261349	0.2886331		
+originals/D700_KPIC_3_.NEF	converted_DxO/D700_KPIC_3_DxO.dng	2	3	2	1	2	3					0.5694674	0.41801867	0.8006077		
+originals/D700_PN_DSC_0143_.NEF	converted_DxO/D700_PN_DSC_0143_DxO.dng	2	2	2	2	3	3					0.86027133	0.46469733	0.71749926		
+originals/D700_PN_DSC_0302_.NEF	converted_DxO/D700_PN_DSC_0302_DxO.dng	2	2	2	2	2	2					0.913515	0.7953733	0.92329884		
+originals/D700_PN_DSC_0364_.NEF	converted_DxO/D700_PN_DSC_0364_DxO.dng	2	2	2	2	3	3					0.88456035	0.7971797	0.9391414		
+originals/D700_PN_DSC_0443_.NEF	converted_DxO/D700_PN_DSC_0443_DxO.dng	2	2	3	2	2	3					0.851004	0.45058796	0.5034266		
+originals/D700_PN_DSC_0570_.NEF	converted_DxO/D700_PN_DSC_0570_DxO.dng	2	2	3	3	1	3					0.8006898	0.4938873	0.8065252		
+originals/D700_PN_DSC_1220_.NEF	converted_DxO/D700_PN_DSC_1220_DxO.dng	2	2	2	2	2	3					0.848075	0.31945392	0.6975395		
+originals/D700_PN_DSC_1316_.NEF	converted_DxO/D700_PN_DSC_1316_DxO.dng	2	2	3	2	3	3					0.5659505	0.22554667	0.4858158		
+originals/D700_PN_DSC_1348_.NEF	converted_DxO/D700_PN_DSC_1348_DxO.dng	2	2	3	2	2	3					0.6735344	0.25060704	0.4733546		
+originals/D700_PN_DSC_1353_.NEF	converted_DxO/D700_PN_DSC_1353_DxO.dng	2	2	3	2	2	3					0.70909125	0.2692889	0.50452894		
+originals/D700_PN_DSC_2109_.NEF	converted_DxO/D700_PN_DSC_2109_DxO.dng	2	2	3	1	3	3					0.8096566	0.556873	0.84629923		
+originals/D700_PN_DSC_2261_.NEF	converted_DxO/D700_PN_DSC_2261_DxO.dng	2	2	3	2	2	3					0.82285804	0.66532534	0.8421512		
+originals/D700_PN_DSC_2552_.NEF	converted_DxO/D700_PN_DSC_2552_DxO.dng	2	2	3	2	3	3					0.83870035	0.7509627	0.9506886		
+originals/D700_PN_DSC_3021_.NEF	converted_DxO/D700_PN_DSC_3021_DxO.dng	2	3	3	2	2	3					0.79929435	0.8140414	0.8900626		
+originals/D700_PN_DSC_3032_.NEF	converted_DxO/D700_PN_DSC_3032_DxO.dng	2	2	3	2	2	3					0.995682	0.688686	0.8329094		
+originals/D700_PN_DSC_3735_.NEF	converted_DxO/D700_PN_DSC_3735_DxO.dng	2	2	2	2	2	3					0.80591357	0.5608133	0.7432264		
+originals/D700_PN_DSC_3748_.NEF	converted_DxO/D700_PN_DSC_3748_DxO.dng	3	3	2	3	2	3					0.8399616	0.51563615	0.60458934		
+originals/D700_PN_DSC_3825_.NEF	converted_DxO/D700_PN_DSC_3825_DxO.dng	3	2	3	3	2	3					0.78333586	0.5621147	0.9073438		
+originals/D700_PN_DSC_3872_.NEF	converted_DxO/D700_PN_DSC_3872_DxO.dng	2	2	2	2	2	3					0.6108584	0.37488642	0.6933626		
+originals/D700_PN_DSC_4115_.NEF	converted_DxO/D700_PN_DSC_4115_DxO.dng	2	2	3	2	2	3					0.78660583	0.5643403	0.6853073		
+originals/D700_PN_DSC_4148_.NEF	converted_DxO/D700_PN_DSC_4148_DxO.dng	2	2	2	2	2	3					0.77284425	0.43884397	0.6071008		
+originals/D700_PN_DSC_4176_.NEF	converted_DxO/D700_PN_DSC_4176_DxO.dng	2	2	3	3	2	3					0.85767937	0.54793024	0.6609261		
+originals/D700_PN_DSC_4219_.NEF	converted_DxO/D700_PN_DSC_4219_DxO.dng	2	2	3	2	2	3					0.8828767	0.60701674	0.7266559		
+originals/D700_PN_DSC_4406_.NEF	converted_DxO/D700_PN_DSC_4406_DxO.dng	2	2	3	2	3	3					0.897918	0.44286066	0.5617415		
+originals/D700_PN_DSC_4607_.NEF	converted_DxO/D700_PN_DSC_4607_DxO.dng	3	2	3	3	2	3					0.7373799	0.51696575	0.688662		
+originals/D700_PN_DSC_4745_.NEF	converted_DxO/D700_PN_DSC_4745_DxO.dng	2	3	3	2	3	3					0.66630113	0.48410705	0.88208526		
+originals/D700_PN_DSC_4769_.NEF	converted_DxO/D700_PN_DSC_4769_DxO.dng	2	3	2	2	2	3					0.8175764	0.35286808	0.81083626		
+originals/D700_PN_DSC_4931_.NEF	converted_DxO/D700_PN_DSC_4931_DxO.dng	2	3	3	2	2	3					0.7054758	0.49220774	0.6835256		
+originals/D700_PN_DSC_5284_.NEF	converted_DxO/D700_PN_DSC_5284_DxO.dng	2	2	3	2	2	3					0.78962636	0.38725626	0.60628146		
+originals/D700_PN_DSC_5424_.NEF	converted_DxO/D700_PN_DSC_5424_DxO.dng	2	2	3	2	2	3					0.84302956	0.4749568	0.5838752		
+originals/D700_PN_DSC_5526_.NEF	converted_DxO/D700_PN_DSC_5526_DxO.dng	2	2	3	2	2	3					0.7760224	0.76672643	0.85540116		
+originals/D700_PN_DSC_5590_.NEF	converted_DxO/D700_PN_DSC_5590_DxO.dng	2	2	3	2	2	3					0.7067318	0.6485898	0.84295744		
+originals/D700_PN_DSC_5641_.NEF	converted_DxO/D700_PN_DSC_5641_DxO.dng	2	3	2	2	2	3					0.8574033	0.5093729	0.7590816		
+originals/D700_PN_DSC_5670_.NEF	converted_DxO/D700_PN_DSC_5670_DxO.dng	2	2	3	2	2	3					0.8418106	0.73481697	0.9183825		
+originals/D700_PN_DSC_5705_.NEF	converted_DxO/D700_PN_DSC_5705_DxO.dng	2	3	3	2	2	3					0.705269	0.42625967	0.6652463		
+originals/D700_PN_DSC_5787_.NEF	converted_DxO/D700_PN_DSC_5787_DxO.dng	2	2	3	2	2	3					0.8566505	0.4974427	0.70673525		
+originals/D700_PN_DSC_5796_.NEF	converted_DxO/D700_PN_DSC_5796_DxO.dng	2	2	3	2	2	3					0.7132411	0.35763684	0.5446921		
+originals/D700_PN_DSC_5814_.NEF	converted_DxO/D700_PN_DSC_5814_DxO.dng	2	2	2	2	2						0.7143695	0.35557997	0.61965185		
+originals/D700_PN_DSC_5864_.NEF	converted_DxO/D700_PN_DSC_5864_DxO.dng	2	2	3	2	3	3					0.78060395	0.4068005	0.68637186		
+originals/D700_PN_DSC_6042_.NEF	converted_DxO/D700_PN_DSC_6042_DxO.dng	3	3	2	3	2	2					0.9082684	0.6294148	0.81736475		
+originals/D700_PN_DSC_6263_.NEF	converted_DxO/D700_PN_DSC_6263_DxO.dng	3	3	2	3	2	3					0.63543373	0.36695507	0.5756743		
+originals/D700_PN_DSC_6316_.NEF	converted_DxO/D700_PN_DSC_6316_DxO.dng	2	2	3	2	3	2					0.83510315	0.6765527	0.81954044		
+originals/D700_PN_DSC_7179_.NEF	converted_DxO/D700_PN_DSC_7179_DxO.dng	3	3	2	3	2	3					0.5259474	0.3346748	0.6214555		
+originals/D700_PN_DSC_7941_.NEF	converted_DxO/D700_PN_DSC_7941_DxO.dng	3	2	2	2	2	2					0.80852073	0.44679597	0.6500843		
+originals/D700_PN_DSC_8622_.NEF	converted_DxO/D700_PN_DSC_8622_DxO.dng	3	2	2	2	3	3					0.37829262	0.15083222	0.4552721		
+originals/D700_PN_DSC_8735_.NEF	converted_DxO/D700_PN_DSC_8735_DxO.dng	2	2	3	2	3	3					0.7661758	0.5860123	0.7382854		
+originals/D700_PN_DSC_9047_.NEF	converted_DxO/D700_PN_DSC_9047_DxO.dng	2	2	3	2	2	3					0.79037356	0.59077007	0.832765		
+originals/D800_KPIC_1_.NEF	converted_DxO/D800_KPIC_1_DxO.dng	3	2	3	3	2	3					0.8849958	0.5191682	0.71692705		
+originals/D800_KPIC_2_.NEF	converted_DxO/D800_KPIC_2_DxO.dng	3	2	3	3	2	3					0.81597865	0.735384	0.7895386		
+originals/DSC_0141_.NEF	converted_DxO/DSC_0141_DxO.dng	3	2	1	3	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_2265_.NEF	converted_DxO/DSC_2265_DxO.dng	3	2	1	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_2599_.NEF	converted_DxO/DSC_2599_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_2982_.NEF	converted_DxO/DSC_2982_DxO.dng	2	2	3	2	2		0	0	0	0	1	1	1	0	0
+originals/DSC_2984_.NEF	converted_DxO/DSC_2984_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_2986_.NEF	converted_DxO/DSC_2986_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_2987_.NEF	converted_DxO/DSC_2987_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_2988_.NEF	converted_DxO/DSC_2988_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_2991_.NEF	converted_DxO/DSC_2991_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3006_.NEF	converted_DxO/DSC_3006_DxO.dng	2	3	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3015_.NEF	converted_DxO/DSC_3015_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3022_.NEF	converted_DxO/DSC_3022_DxO.dng	2	3	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3023_.NEF	converted_DxO/DSC_3023_DxO.dng	2	3	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3024_.NEF	converted_DxO/DSC_3024_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3025_.NEF	converted_DxO/DSC_3025_DxO.dng	2	2	3	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3029_.NEF	converted_DxO/DSC_3029_DxO.dng	2	2	2	3	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3030_.NEF	converted_DxO/DSC_3030_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3031_.NEF	converted_DxO/DSC_3031_DxO.dng	2	2	2	3	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3032_.NEF	converted_DxO/DSC_3032_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3036_.NEF	converted_DxO/DSC_3036_DxO.dng	2	2	3	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3037_.NEF	converted_DxO/DSC_3037_DxO.dng	2	2	3	3	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3038_.NEF	converted_DxO/DSC_3038_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3040_.NEF	converted_DxO/DSC_3040_DxO.dng	2	2	3	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3044_.NEF	converted_DxO/DSC_3044_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3045_.NEF	converted_DxO/DSC_3045_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3046_.NEF	converted_DxO/DSC_3046_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3047_.NEF	converted_DxO/DSC_3047_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3049_.NEF	converted_DxO/DSC_3049_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3051_.NEF	converted_DxO/DSC_3051_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3052_.NEF	converted_DxO/DSC_3052_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3055_.NEF	converted_DxO/DSC_3055_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3056_.NEF	converted_DxO/DSC_3056_DxO.dng	2	2	3	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3059_.NEF	converted_DxO/DSC_3059_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3061_.NEF	converted_DxO/DSC_3061_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3065_.NEF	converted_DxO/DSC_3065_DxO.dng	2	2	3	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3087_.NEF	converted_DxO/DSC_3087_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3088_.NEF	converted_DxO/DSC_3088_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3094_.NEF	converted_DxO/DSC_3094_DxO.dng	2	3	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3095_.NEF	converted_DxO/DSC_3095_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3096_.NEF	converted_DxO/DSC_3096_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3097_.NEF	converted_DxO/DSC_3097_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3101_.NEF	converted_DxO/DSC_3101_DxO.dng	2	2	3	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3102_.NEF	converted_DxO/DSC_3102_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3104_.NEF	converted_DxO/DSC_3104_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3108_.NEF	converted_DxO/DSC_3108_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3110_.NEF	converted_DxO/DSC_3110_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3113_.NEF	converted_DxO/DSC_3113_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3114_.NEF	converted_DxO/DSC_3114_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3115_.NEF	converted_DxO/DSC_3115_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3116_.NEF	converted_DxO/DSC_3116_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3117_.NEF	converted_DxO/DSC_3117_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3118_.NEF	converted_DxO/DSC_3118_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3121_.NEF	converted_DxO/DSC_3121_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3122_.NEF	converted_DxO/DSC_3122_DxO.dng	2	3	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3123_.NEF	converted_DxO/DSC_3123_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3124_.NEF	converted_DxO/DSC_3124_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3127_.NEF	converted_DxO/DSC_3127_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3128_.NEF	converted_DxO/DSC_3128_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3129_.NEF	converted_DxO/DSC_3129_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3130_.NEF	converted_DxO/DSC_3130_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3131_.NEF	converted_DxO/DSC_3131_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3138_.NEF	converted_DxO/DSC_3138_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3150_.NEF	converted_DxO/DSC_3150_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3165_.NEF	converted_DxO/DSC_3165_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3167_.NEF	converted_DxO/DSC_3167_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3169_.NEF	converted_DxO/DSC_3169_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3170_.NEF	converted_DxO/DSC_3170_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3172_.NEF	converted_DxO/DSC_3172_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3176_.NEF	converted_DxO/DSC_3176_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3201_.NEF	converted_DxO/DSC_3201_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3202_.NEF	converted_DxO/DSC_3202_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3203_.NEF	converted_DxO/DSC_3203_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3204_.NEF	converted_DxO/DSC_3204_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3205_.NEF	converted_DxO/DSC_3205_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3206_.NEF	converted_DxO/DSC_3206_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3207_.NEF	converted_DxO/DSC_3207_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3225_.NEF	converted_DxO/DSC_3225_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3226_.NEF	converted_DxO/DSC_3226_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3227_.NEF	converted_DxO/DSC_3227_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3228_.NEF	converted_DxO/DSC_3228_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3229_.NEF	converted_DxO/DSC_3229_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3245_.NEF	converted_DxO/DSC_3245_DxO.dng	2	2	3	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3246_.NEF	converted_DxO/DSC_3246_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3247_.NEF	converted_DxO/DSC_3247_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3248_.NEF	converted_DxO/DSC_3248_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3266_.NEF	converted_DxO/DSC_3266_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3267_.NEF	converted_DxO/DSC_3267_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3270_.NEF	converted_DxO/DSC_3270_DxO.dng	2	2	2	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3271_.NEF	converted_DxO/DSC_3271_DxO.dng	2	2	3	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_3274_.NEF	converted_DxO/DSC_3274_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3275_.NEF	converted_DxO/DSC_3275_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3276_.NEF	converted_DxO/DSC_3276_DxO.dng	2	2	3	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3278_.NEF	converted_DxO/DSC_3278_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3279_.NEF	converted_DxO/DSC_3279_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3280_.NEF	converted_DxO/DSC_3280_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3281_.NEF	converted_DxO/DSC_3281_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3283_.NEF	converted_DxO/DSC_3283_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3284_.NEF	converted_DxO/DSC_3284_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3285_.NEF	converted_DxO/DSC_3285_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3286_.NEF	converted_DxO/DSC_3286_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3287_.NEF	converted_DxO/DSC_3287_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3290_.NEF	converted_DxO/DSC_3290_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3291_.NEF	converted_DxO/DSC_3291_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3295_.NEF	converted_DxO/DSC_3295_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3296_.NEF	converted_DxO/DSC_3296_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3297_.NEF	converted_DxO/DSC_3297_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3298_.NEF	converted_DxO/DSC_3298_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3299_.NEF	converted_DxO/DSC_3299_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3302_.NEF	converted_DxO/DSC_3302_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3310_.NEF	converted_DxO/DSC_3310_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3311_.NEF	converted_DxO/DSC_3311_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_3312_.NEF	converted_DxO/DSC_3312_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_4716_.NEF	converted_DxO/DSC_4716_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_6633_.NEF	converted_DxO/DSC_6633_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/DSC_6635_.NEF	converted_DxO/DSC_6635_DxO.dng	2	2	3	2	2	3	0	0	0	0	1	1	1	0	0
+originals/DSC_6652_.NEF	converted_DxO/DSC_6652_DxO.dng	2	2	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/IMG_0075_.CR2	converted_DxO/IMG_0075_DxO.dng	2	3	2	2	2	2	0	0	0	0	1	1	1	0	0
+originals/IMG_0166_.CR2	converted_DxO/IMG_0166_DxO.dng	2	2	2	2	3	1	0	0	0	0	0.99939466	0.99056566	0.9999657	0.9935128	1.1276373E-006
+originals/IMG_0175_.CR2	converted_DxO/IMG_0175_DxO.dng	2	2	2	2	2	2	0	0	0	0	0.97771806	0.9320257	0.9996929	0.94310415	7.578145E-007
+originals/IMG_0177_.CR2	converted_DxO/IMG_0177_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/IMG_2399_.CR2	converted_DxO/IMG_2399_DxO.dng	2	2	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/IMG_2401_.CR2	converted_DxO/IMG_2401_DxO.dng	2	2	2	2	3	2	0	0	0	0	0.9867513	0.98400503	0.99886656	0.9965115	1.2295478E-006
+originals/IMG_3711_.CR2	converted_DxO/IMG_3711_DxO.dng	2	3	2	2	3	2	0	0	0	0	1	1	1	0	0
+originals/IMG_3721_.CR2	converted_DxO/IMG_3721_DxO.dng	2	2	2	2	3	2	0	0	0	0	0.99656564	0.99462247	0.9961929	0.9993398	9.870733E-006
+originals/IMG_3722_.CR2	converted_DxO/IMG_3722_DxO.dng	2	2	1	2	3	2	0	0	0	0	0.99687207	0.9943197	0.99720246	0.99720716	7.242942E-006
+originals/IMG_3790_.CR2	converted_DxO/IMG_3790_DxO.dng	2	3	2	2	3	2	0	0	0	0	0.99884576	0.9853001	0.99955446	0.9998628	1.4807309E-006
+originals/IMG_3823_.CR2	converted_DxO/IMG_3823_DxO.dng	2	2	2	2	2	2	0	0	0	0	0.9996776	0.99536955	0.99987394	0.9997541	7.0536703E-007
+originals/IMG_3826_.CR2	converted_DxO/IMG_3826_DxO.dng	2	2	3	2	2	3	0	0	0	0	0.9993105	0.98303056	0.9996302	0.99979085	0.000001553
+originals/IMG_4459_.CR2	converted_DxO/IMG_4459_DxO.dng	2	2	2	2	3	1	0	0	0	0	1	1	1	0	0
+originals/IMG_4487_.CR2	converted_DxO/IMG_4487_DxO.dng	2	2	2	3	3	3	0	0	0	0	0.99304354	0.995022	0.99968135	0.99997926	0.00000229
+originals/IMG_4641_.CR2	converted_DxO/IMG_4641_DxO.dng	2	2	2	3	3	3	0	0	0	0	0.95223373	0.86979526	0.99909765	0.94121027	1.1514201E-006
+originals/IMG_4837_.CR2	converted_DxO/IMG_4837_DxO.dng	2	3	2	2	2	3	0	0	0	0	0.99491453	0.98876804	0.99962026	0.9999891	1.8175863E-006
+originals/IMG_4874_.CR2	converted_DxO/IMG_4874_DxO.dng	2	2	2	2	2	2	0	0	0	0	0.98176074	0.98004925	0.99882436	0.99995357	1.5473012E-006
+originals/IMG_5029_.CR2	converted_DxO/IMG_5029_DxO.dng	2	3	2	2	2	3	0	0	0	0	0.98558515	0.9593425	0.9994746	0.98658735	1.0267081E-006
+originals/IMG_7373_.CR2	converted_DxO/IMG_7373_DxO.dng	2	2	3	2	2	2	0	0	0	0	0.99932855	0.9972106	0.99968445	0.99999124	2.3586576E-006
