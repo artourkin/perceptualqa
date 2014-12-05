@@ -1,6 +1,6 @@
-rawdata_ADC <-read.csv("/home/artur/rnd/git/perceptualqa/data/ADC.csv",sep="\t")
-rawdata_CO <-read.csv("/home/artur/rnd/git/perceptualqa/data/CO.csv",sep="\t")
-rawdata_DxO <-read.csv("/home/artur/rnd/git/perceptualqa/data/DxO.csv",sep="\t")
+rawdata_ADC <-read.csv("../data/ADC.csv",sep="\t")
+rawdata_CO <-read.csv("../data/CO.csv",sep="\t")
+rawdata_DxO <-read.csv("../data/DxO.csv",sep="\t")
 
 rawdata<-rbind(rawdata_ADC,rawdata_CO,rawdata_DxO)
 #rawdata$total <- rawdata$r1_clipping+rawdata$r2_clipping+rawdata$r1_brightness+rawdata$r2_brightness+rawdata$r1_hue+rawdata$r2_hue

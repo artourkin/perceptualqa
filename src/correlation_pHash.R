@@ -29,9 +29,9 @@ sim.human <- function(alpha, beta) {
 
 
 #Loading data.
-rawdata1 <-read.csv("/home/artur/rnd/git/perceptualqa/phash_DxO.csv")
-rawdata2 <-read.csv("/home/artur/rnd/git/perceptualqa/phash_CO.csv")
-rawdata3 <-read.csv("/home/artur/rnd/git/perceptualqa/phash_ADC.csv")
+rawdata1 <-read.csv("../phash/phash_DxO.csv")
+rawdata2 <-read.csv("../phash/phash_CO.csv")
+rawdata3 <-read.csv("../phash/phash_ADC.csv")
 rawdata<-rbind(rawdata1,rawdata2,rawdata3)
 dat <- structure(list(Human = rawdata$human, pHash = rawdata$phash), .Names = c("Human", "pHash"), 
                  class = "data.frame", row.names = c(NA, -27L))
@@ -52,14 +52,14 @@ draw.threshold.hor()
 
 #There are 2 options to draw an S-curve that describes the calculated model:
 ####Option 1
-#plot(dat$pHash, dat$Human, xlab="pHash", ylab="Human")
-#curve(predict(phash.glm, data.frame(pHash=x), type="resp"), add=TRUE, col="red")
-#points(dat$pHash,fitted(phash.glm),pch=20)
-#draw.threshold.vert()
-####Option 2
-library(popbio)
-logi.hist.plot(dat$pHash,dat$Human,boxp=TRUE,type="hist",col="gray",xlabel="pHash", ylabel2="Human")
+plot(dat$pHash, dat$Human, xlab="pHash", ylab="Human")
+curve(predict(phash.glm, data.frame(pHash=x), type="resp"), add=TRUE, col="red")
+points(dat$pHash,fitted(phash.glm),pch=20)
 draw.threshold.vert()
+####Option 2
+#library(popbio)
+#logi.hist.plot(dat$pHash,dat$Human,boxp=TRUE,type="hist",col="gray",xlabel="pHash", ylabel2="Human")
+#draw.threshold.vert()
 
 
 

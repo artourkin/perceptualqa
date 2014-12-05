@@ -2,7 +2,7 @@ require(foreign)
 require(nnet)
 require(ggplot2)
 require(reshape2)
-data <-read.csv("/home/artur/rnd/git/perceptualqa/ssim_DxO.csv")
+data <-read.csv("../old data/ssim_DxO.csv")
 attach(data)
 #plot(data$ssimSimple~data$r1_clipping*data$r1_brightness*data$r1_hue)
 data$r_aver<-(r1_brightness+r1_clipping+r1_hue+r2_brightness+r2_clipping+r2_hue)/18

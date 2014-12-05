@@ -1,6 +1,6 @@
-rawdata_ADC <-read.csv("/home/artur/rnd/git/perceptualqa/ADC.csv",sep="\t")
-rawdata_CO <-read.csv("/home/artur/rnd/git/perceptualqa/CO.csv",sep="\t")
-rawdata_DxO <-read.csv("/home/artur/rnd/git/perceptualqa/DxO.csv",sep="\t")
+rawdata_ADC <-read.csv("../data/ADC.csv",sep="\t")
+rawdata_CO <-read.csv("../data/CO.csv",sep="\t")
+rawdata_DxO <-read.csv("../data/DxO.csv",sep="\t")
 #rawdata_ADC[rawdata_ADC=="Image size does not match"] <- NA
 #rawdata_CO[rawdata_CO=="Image size does not match"] <- NA
 #rawdata_DxO[rawdata_DxO=="Image size does not match"] <- NA
