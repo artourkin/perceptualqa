@@ -29,11 +29,13 @@ sim.human <- function(alpha, beta) {
 
 
 #Loading data.
-rawdata1 <-read.csv("../phash/phash_DxO.csv")
-rawdata2 <-read.csv("../phash/phash_CO.csv")
-rawdata3 <-read.csv("../phash/phash_ADC.csv")
-rawdata<-rbind(rawdata1,rawdata2,rawdata3)
-dat <- structure(list(Human = rawdata$human, pHash = rawdata$phash), .Names = c("Human", "pHash"), 
+#rawdata1 <-read.csv("../phash/phash_DxO.csv")
+#rawdata2 <-read.csv("../phash/phash_CO.csv")
+#rawdata3 <-read.csv("../phash/phash_ADC.csv")
+#newssim <- read.csv("../src/data.csv", sep = ";")
+newssim = read.csv2(file.choose(),header=F, sep = ";")
+#rawdata <- rbind(rawdata1,rawdata2,rawdata3)
+dat <- structure(list(Human = newssim$V3, pHash = newssim$V2), .Names = c("Human", "pHash"), 
                  class = "data.frame", row.names = c(NA, -27L))
 #Calculating a model using logistic regression.
 phash.glm <- glm(Human ~ pHash, data=dat, family=binomial)
